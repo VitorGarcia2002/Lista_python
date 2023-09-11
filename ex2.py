@@ -2,8 +2,8 @@
 Jogo da velha com um tabuleiro NxN onde o tamanho do tabuleiro é decidido pelo jogador
 
 Estratégia utlizada:
-- A abordagem nesse exercicio foi um pouco parecida com o do primeiro tabuleiro, onde as posição são definidas por numeros de 1 até o valor do tamanho do tabuleiro
-- Unica diferença é que nesse não foi possível inserir um tabuleiro inicial que mostra as posições e os seus respectivos numeors, pois o tamanho do tabuleiro não é fixo
+- A abordagem nesse exercicio foi um pouco parecida com o do primeiro tabuleiro,mas nesse as posições são definidas por numeros de 1 até o valor do tamanho do tabuleiro
+- Unica diferença é que nesse não foi possível inserir um tabuleiro inicial que mostra as posições e os seus respectivos numeros, pois o tamanho do tabuleiro não é fixo
 - Assim como no primeiro foi feito uma função que imprime o tabuleiro
 - Em seguida na função "logica_jogo" é pedido para o úsuario informar o tamanho do tabuleiro desejado, imprimindo o tabuleiro dentro da função while e iniciando o jogo pelo jogador "x" 
 - A verificação é feita semelhante ao tabuleiro 4x4, se houve algum vencedor ou empate ou se a posição escolhida por "x" é valida
