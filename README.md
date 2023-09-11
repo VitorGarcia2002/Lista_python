@@ -1,2 +1,6 @@
-# Lista_pyton
-Repositório para os exercícios da lista de tópicas especiais em software
+# Lista de Exercicios Python
+
+**Aluno**
+* Vitor Garcia Brasilio
+* Ciência da Computação, 4º Semestre
+* Turma Noite
